@@ -5,6 +5,7 @@ Running Docker in a Travis CI build.
 `./run` script will run commands in a user-land linux with `docker` and `docker-compose` and pass back the exit code
 
 Inspired by [lukecyca/travis-docker-example](https://github.com/lukecyca/travis-docker-example)
+Forked from moul/travis-docker
 
 
 ## *.travis.yml* examples
